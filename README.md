@@ -1,13 +1,13 @@
 # Debate_Platform
 This my project of debate platform. Using 
 ![1](https://github.com/user-attachments/assets/d8adc562-0e32-417f-b10c-fd00336a9a48)
+![2](https://github.com/user-attachments/assets/6c3771b7-9cfc-40dd-9c5f-dc60a2f68692)
+![3](https://github.com/user-attachments/assets/c86e93cd-8248-45d3-a90d-26d8674b87de)
+![4](https://github.com/user-attachments/assets/d96dec94-f73b-49ef-a701-871f59e41895)
+![5](https://github.com/user-attachments/assets/7d9912e7-c3e4-42a8-82f7-a0ec0172cba4)
+![6](https://github.com/user-attachments/assets/ae277938-58bf-443a-8275-0fcf8406e8d1)
 
-![image](https://github.com/user-attachments/assets/8a8721d2-e535-4187-95f5-0e3ed8065a87)
-![image](https://github.com/user-attachments/assets/f5768d9d-4e68-4deb-ac3a-8f8536f4e794)
-![image](https://github.com/user-attachments/assets/ca1b5ca3-d627-474a-89c0-dc883668293d)
-![image](https://github.com/user-attachments/assets/28f1e0e1-ceda-4971-a29d-dc81c610ed81)
-![image](https://github.com/user-attachments/assets/eb79340f-a97d-454d-b3d1-840f3b7ff247)
-![image](https://github.com/user-attachments/assets/b20f3739-c5cd-4845-bbbb-39c233e718b1)
+
 
 
 
