@@ -1,5 +1,4 @@
 # Debate_Platform
-This my project of debate platform. Using 
 ![1](https://github.com/user-attachments/assets/d8adc562-0e32-417f-b10c-fd00336a9a48)
 ![2](https://github.com/user-attachments/assets/6c3771b7-9cfc-40dd-9c5f-dc60a2f68692)
 ![3](https://github.com/user-attachments/assets/c86e93cd-8248-45d3-a90d-26d8674b87de)
